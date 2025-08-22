@@ -1,2 +1,2 @@
 # Computo-en-la-Nube-
-Practica 1 y tarea de computo en la nube 
+Este proyecto contiene una imagen Docker que despliega un servidor **Nginx** en el puerto 80 mostrando la frase:
